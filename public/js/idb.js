@@ -47,7 +47,7 @@ function uploadRecord() {
         const transaction = db.transaction(['new_tracker'], 'readwrite');
         const trackerObjectStore = transaction.objectStore('new_tracker');
         trackerObjectStore.clear();
-        alert('All saves has been submitted!');
+        alert('All saved transaction has been submitted!');
       })
       .catch(err => {
         console.log(err);
