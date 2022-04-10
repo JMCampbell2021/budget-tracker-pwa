@@ -2,7 +2,7 @@
 
 ## Description
 
-For this assignmen/challenge this I was tasked with updating an existing budget tracking application to allow for offline acess and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online.
+For this assignment/challenge I was tasked with updating an existing budget tracking application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online.
 
 ## Table of Content
 
@@ -22,13 +22,20 @@ For this assignmen/challenge this I was tasked with updating an existing budget 
 
 ## Demostration
 
-### Video
+https://user-images.githubusercontent.com/92699311/162601424-a35cec1e-9348-400b-9b85-a9f23f82297c.mp4
 
 ## Technologies
 
+- Service Worker
+- Manifest
+- MongoDB
+- Heroku
+- IndexDB
+- Node.js
+
 ## Live Application Link
 
-For live application please click [Budget Tracker](https://budget-tracker2022-app.herokuapp.com/).
+For live application please click [Budget Tracker](https://budget-tracker2022-app.herokuapp.com).
 
 ## Contact Information
 
