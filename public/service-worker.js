@@ -1,16 +1,17 @@
 const FILES_TO_CACHE = [
-  "./public/index.html",
-  "./public/css/style.css",
-  "./public/icons/icon-72x72png",
-  "./public/icons/icon-96x96png",
-  "./public/icons/icon-128x128png",
-  "./public/icons/icon-144x144png",
-  "./public/icons/icon-152x152png",
-  "./public/icons/icon-192x192png",
-  "./public/icons/icon-384x384png",
-  "./public/icons/icon-512x512png",
-  "./public/js/idb.js",
-  "./public/js/index.js"
+  '/',
+  './index.html',
+  './css/styles.css',
+  './icons/icon-72x72.png',
+  './icons/icon-96x96.png',
+  './icons/icon-128x128.png',
+  './icons/icon-144x144.png',
+  './icons/icon-152x152.png',
+  './icons/icon-192x192.png',
+  './icons/icon-384x384.png',
+  './icons/icon-512x512.png',
+  './js/idb.js',
+  './js/index.js',
 ];
 
 const APP_PREFIX = 'BudgetTracker-';     
